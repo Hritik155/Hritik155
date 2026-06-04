@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on AI-powered applications, automation tools, and modern business websites.<br><br>👯 I'm looking to collaborate on Artificial Intelligence, Software Development, and Innovative Tech Projects.<br><br>🤝 I'm looking for help with Advanced Machine Learning, Generative AI, and System Design.<br><br>🌱 I'm currently learning AI Engineering, Full-Stack Development, Cloud Computing, and Automation.<br><br>💬 Ask me about Web Development, GitHub, JavaScript, AI Tools, Prompt Engineering, and Frontend Development.<br><br>⚡ Fun fact: I built an AI Customer Care Agent and multiple business websites while pursuing my BCA.
+Web Developer | Full Stack Developer | AI Enthusiast | AI Automation | Frontend Development | Open Source Learner
 
 
 ## 🌐 Socials:
